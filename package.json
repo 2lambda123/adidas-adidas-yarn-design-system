@@ -25,7 +25,7 @@
     "build-tools-jest": "1.0.1",
     "cross-env": "5.2.0",
     "css-loader": "6.8.1",
-    "del-cli": "0.2.1",
+    "del-cli": "5.1.0",
     "eslint": "5.15.3",
     "eslint-config-adidas-babel": "1.1.0",
     "eslint-config-adidas-env": "1.1.0",
