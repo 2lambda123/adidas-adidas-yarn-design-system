@@ -21,7 +21,7 @@
     "babel-loader": "7.1.4",
     "babel-plugin-istanbul": "4.1.6",
     "babel-preset-env": "1.7.0",
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "build-tools-jest": "1.0.1",
     "cross-env": "5.2.0",
     "css-loader": "6.8.1",
