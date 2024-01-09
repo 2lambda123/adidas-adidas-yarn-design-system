@@ -48,16 +48,16 @@
     "nuxt": "3.9.0",
     "postcss-loader": "7.3.4",
     "raw-loader": "0.5.1",
-    "showdown": "1.9.0",
+    "showdown": "1.9.1",
     "source-map-loader": "0.2.4",
-    "stylelint": "9.10.1",
+    "stylelint": "16.1.0",
     "stylelint-config-adidas": "1.2.1",
     "stylelint-config-adidas-bem": "1.2.0",
     "typeface-poppins": "0.0.54",
     "typeface-roboto": "0.0.54",
     "typeface-roboto-mono": "0.0.54",
     "vue-i18n": "7.6.0",
-    "webpack": "3.8.1"
+    "webpack": "5.89.0"
   },
   "scripts": {
     "start": "npm run start:lib",
